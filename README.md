@@ -1,1 +1,1 @@
-#yet another try in vibe coding
+Yet another try in vibe coding
